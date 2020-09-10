@@ -17,6 +17,6 @@ function uptime() {
     return timestring;
 };
 
-export {
+module.exports = {
     uptime
 }
