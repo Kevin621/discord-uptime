@@ -2,7 +2,7 @@
 /**
  * @returns {string}
  */
-function time(ms, s, m, h, d) {
+function time() {
     let msec = Number(process.uptime().toFixed(0)) * 1000;
     let totalSeconds = Math.floor(msec / 1000);
     let seconds = Math.floor(totalSeconds % 60)
