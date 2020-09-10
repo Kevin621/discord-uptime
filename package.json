@@ -2,7 +2,7 @@
   "name": "discord-uptime",
   "version": "1.0.1",
   "description": "Gets the uptime of a discord bot.",
-  "main": "index.js",
+  "main": "uptime.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
