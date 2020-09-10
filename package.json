@@ -14,5 +14,7 @@
     "uptime"
   ],
   "author": "Kevin",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/Kevin621/discord-uptime#readme",
+  "repository": "https://github.com/Kevin621/discord-uptime"
 }
