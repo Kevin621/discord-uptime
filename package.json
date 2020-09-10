@@ -16,5 +16,6 @@
   "author": "Kevin",
   "license": "MIT",
   "homepage": "https://github.com/Kevin621/discord-uptime#readme",
-  "repository": "https://github.com/Kevin621/discord-uptime"
+  "repository": "https://github.com/Kevin621/discord-uptime",
+  "readme": "README.md"
 }
