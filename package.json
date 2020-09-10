@@ -1,6 +1,6 @@
 {
   "name": "discord-uptime",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Gets the uptime of a discord bot.",
   "main": "uptime.js",
   "scripts": {
