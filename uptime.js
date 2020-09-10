@@ -1,7 +1,8 @@
+
 /**
  * @returns {string}
  */
-function uptime() {
+function time() {
     let mseconds = Number(process.uptime().toFixed(0)) * 1000;
     let seconds = Math.floor(mseconds / 1000);
     let minutes = Math.floor(seconds / 60);
@@ -16,7 +17,4 @@ function uptime() {
 
     return timestring;
 };
-
-module.exports = {
-    uptime
-}
+module.exports = time
