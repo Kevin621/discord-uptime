@@ -7,4 +7,4 @@
     const time = require("discord-uptime")
 
 	console.log(time())
-	//Outputs time in an easy to read string
+	//Example: Days: 2 Hours: 7 Minutes: 49 Seconds: 32
