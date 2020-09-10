@@ -1,6 +1,5 @@
-
 /**
- * @returns {string}
+ * @returns {Array}
  */
 function time() {
     let msec = Number(process.uptime().toFixed(0)) * 1000;
@@ -11,7 +10,6 @@ function time() {
     let hours = Math.floor(totalSeconds / 3600);
     let days = Math.floor(totalSeconds / 864000);
     
-    return(`Days: ${days} Hours: ${hours} Minutes: ${minutes} Seconds: ${seconds}`);
+    return [toString(days), toString(hours), toString(minutes), toString(seconds)]
 };
 module.exports = time
-
