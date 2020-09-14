@@ -17,8 +17,5 @@
   "license": "MIT",
   "homepage": "https://github.com/Kevin621/discord-uptime#readme",
   "repository": "https://github.com/Kevin621/discord-uptime",
-  "readme": "README.md",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+  "readme": "README.md"
 }
