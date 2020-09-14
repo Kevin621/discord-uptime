@@ -1,6 +1,6 @@
 {
   "name": "discord-uptime",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Gets the uptime of a discord bot.",
   "main": "uptime.js",
   "scripts": {
@@ -18,5 +18,7 @@
   "homepage": "https://github.com/Kevin621/discord-uptime#readme",
   "repository": "https://github.com/Kevin621/discord-uptime",
   "readme": "README.md",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
