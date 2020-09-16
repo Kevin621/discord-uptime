@@ -17,5 +17,11 @@
   "license": "MIT",
   "homepage": "https://github.com/Kevin621/discord-uptime#readme",
   "repository": "https://github.com/Kevin621/discord-uptime",
-  "readme": "README.md"
+  "readme": "README.md",
+  "dependencies": {
+    "@types/express": "github:types/express",
+    "@types/node": "^14.10.2",
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^1.1.0"
+  }
 }
