@@ -17,5 +17,5 @@ Minutes: ${minutes}
 Seconds: ${seconds}`)
 };
 
-export = time
+module.exports = time
 
